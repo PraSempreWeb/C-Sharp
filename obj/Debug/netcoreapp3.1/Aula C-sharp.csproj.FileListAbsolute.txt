@@ -1,0 +1,13 @@
+D:\01 - DIO INNOVATION ONE\10 - PRIMEIROS PASSOS COM .NET + C#\csharp\Aula C-sharp\bin\Debug\netcoreapp3.1\Aula C-sharp.exe
+D:\01 - DIO INNOVATION ONE\10 - PRIMEIROS PASSOS COM .NET + C#\csharp\Aula C-sharp\bin\Debug\netcoreapp3.1\Aula C-sharp.deps.json
+D:\01 - DIO INNOVATION ONE\10 - PRIMEIROS PASSOS COM .NET + C#\csharp\Aula C-sharp\bin\Debug\netcoreapp3.1\Aula C-sharp.runtimeconfig.json
+D:\01 - DIO INNOVATION ONE\10 - PRIMEIROS PASSOS COM .NET + C#\csharp\Aula C-sharp\bin\Debug\netcoreapp3.1\Aula C-sharp.runtimeconfig.dev.json
+D:\01 - DIO INNOVATION ONE\10 - PRIMEIROS PASSOS COM .NET + C#\csharp\Aula C-sharp\bin\Debug\netcoreapp3.1\Aula C-sharp.dll
+D:\01 - DIO INNOVATION ONE\10 - PRIMEIROS PASSOS COM .NET + C#\csharp\Aula C-sharp\bin\Debug\netcoreapp3.1\Aula C-sharp.pdb
+D:\01 - DIO INNOVATION ONE\10 - PRIMEIROS PASSOS COM .NET + C#\csharp\Aula C-sharp\obj\Debug\netcoreapp3.1\Aula C-sharp.csprojAssemblyReference.cache
+D:\01 - DIO INNOVATION ONE\10 - PRIMEIROS PASSOS COM .NET + C#\csharp\Aula C-sharp\obj\Debug\netcoreapp3.1\Aula C-sharp.AssemblyInfoInputs.cache
+D:\01 - DIO INNOVATION ONE\10 - PRIMEIROS PASSOS COM .NET + C#\csharp\Aula C-sharp\obj\Debug\netcoreapp3.1\Aula C-sharp.AssemblyInfo.cs
+D:\01 - DIO INNOVATION ONE\10 - PRIMEIROS PASSOS COM .NET + C#\csharp\Aula C-sharp\obj\Debug\netcoreapp3.1\Aula C-sharp.csproj.CoreCompileInputs.cache
+D:\01 - DIO INNOVATION ONE\10 - PRIMEIROS PASSOS COM .NET + C#\csharp\Aula C-sharp\obj\Debug\netcoreapp3.1\Aula C-sharp.dll
+D:\01 - DIO INNOVATION ONE\10 - PRIMEIROS PASSOS COM .NET + C#\csharp\Aula C-sharp\obj\Debug\netcoreapp3.1\Aula C-sharp.pdb
+D:\01 - DIO INNOVATION ONE\10 - PRIMEIROS PASSOS COM .NET + C#\csharp\Aula C-sharp\obj\Debug\netcoreapp3.1\Aula C-sharp.genruntimeconfig.cache
