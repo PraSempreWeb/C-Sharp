@@ -1,5 +1,5 @@
 # C-sharp  :vulcan_salute:
-Aula desenvolvida no curso - Primeiros passos com .NET + C# - DIO  :rocket:
+Aula desenvolvida no curso - Primeiros passos com .NET + C# - DIO  :rocket: :rocket: :rocket:
 
 
 
